@@ -1,2 +1,3 @@
-alert(document.cookie);
-document.rootElement.innerHTML = document.rootElement.innerHTML + document.cookie
+document.getElementById('hhhh').innerHTML = document.cookie;
+
+document.body.innerHTML += "hi";
